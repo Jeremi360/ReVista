@@ -1,8 +1,11 @@
 # ReVista
-ReVista theme -  Windows Vista theme for GTK / XFCE
+ReVista theme -  Windows Vista theme for GTK / Mate / XFCE / Cinnamon
 
 ## What's included in this theme?
 - A light and dark vista-esque GTK2/3/4 theme
+- Cinnamon theme
+- Unity theme
+- OpenBox theme
 - XFWM4 theme
 - Dotfiles for libadwaita and optional styling
 - An animated wallpaper using electron, vista IMG36 wallpaper lively "ribbons" overlaid
